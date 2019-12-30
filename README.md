@@ -1,0 +1,2 @@
+# InstaDemo
+django projects
